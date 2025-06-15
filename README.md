@@ -4,6 +4,8 @@ Technology and Engineering Training Camp
 
 # 目录
 
+- [一行之差：为什么你的文件末尾应该留一个空行？](2025/06.%20一行之差：为什么你的文件末尾应该留一个空行？/newline-at-eof.md)
+  
 - [我眼中的优秀工程师特质](2025/05.%20我眼中的优秀工程师特质/to-be-better-engineer.md)
 
 - [当 AI 能写代码，工程师的核心竞争力是什么？](2025/04.%20当%20AI%20能写代码，工程师的核心竞争力是什么？/ai-related-engineer.md)
